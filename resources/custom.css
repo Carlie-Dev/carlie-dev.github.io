@@ -1,5 +1,5 @@
 body{
-    background-color: #3d142b;
+    background-color: #1a0712;
     color: #ffffff;
 }
 
@@ -71,4 +71,8 @@ body{
 .btn-primary:hover {
     background-color: #634568;
     border-color: #634568;
+}
+
+.bg-body-tertiary{
+    background-color: #c488aa !important;
 }
