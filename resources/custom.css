@@ -1,8 +1,3 @@
-body{
-    background-color: #1a0712;
-    color: #ffffff;
-}
-
 .lato-thin {
   font-family: "Lato", sans-serif;
   font-weight: 100;
@@ -65,8 +60,8 @@ body{
 
 /* Custom styles for the buttons */
 .btn-primary {
-    background-color: #ac65b7;
-    border-color: #ac65b7;
+    background-color: #200116;
+    border-color: #200116;
 }
 .btn-primary:hover {
     background-color: #634568;
@@ -75,4 +70,17 @@ body{
 
 .bg-body-tertiary{
     background-color: #c488aa !important;
+}
+
+.primary {
+    color: #200116 !important;
+}
+.secondary {
+    color: #634568 !important;
+}
+.bg-primary {
+    background-color: #200116 !important;
+}
+.bg-secondary {
+    background-color: #634568 !important;
 }
